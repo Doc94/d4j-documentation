@@ -1,0 +1,5 @@
+[[plugins]]
+package = "@algolia/netlify-plugin-crawler"
+    [plugins.inputs]
+    branches = ['main', 'feature/no-ref/dependencies-update']
+    disabled = false
